@@ -18,4 +18,6 @@ Bamazon is a command line Node app that takes in input and returns data. It inte
 - Follow the on-screen prompts
 
 ## Video Demo
- [Video Demo](https://github.com/crussell84/bamazon/blob/master/media/bamazonCustomerFlow.mp4)
+ <video width="320" height="240" controls>
+  <source src="./media/bamazonCustomerFlow.mp4" type="video/mp4">
+</video>
